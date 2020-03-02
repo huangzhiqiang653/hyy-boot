@@ -1,0 +1,6 @@
+/target/
+/.idea/
+*.iml
+# Project exclude paths
+/hyy-boot-base-common/target/
+/hyy-boot-module-system/target/
